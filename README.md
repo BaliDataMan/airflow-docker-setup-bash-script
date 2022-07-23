@@ -1,9 +1,12 @@
 
-Here I have built the bash command to install airflow on your system using Docker compose, follow the commands to get started:
+<h1> Automated airflow installation using docker </h1>
 
+Here I have built the bash script to install airflow using docker on your system without any hustle, just follow the commands:
 
-STEP 01- cd airflow_exmaple
+STEP 01- cd <REPO_DIR>
 
-STEP 02 - ./ airflow-docker-setup.sh
+STEP 02 - ./airflow-docker-setup.sh
 
-STEP 03 - Hit localhost:8080 to get airflow login page
+STEP 03 - Hit http://localhost:8080/ to get airflow login page
+
+NOTE - If you face errors while running the bash script, just open the airflow-docker-setup.sh and I have mentioned expected errors in comments with there solution links.
