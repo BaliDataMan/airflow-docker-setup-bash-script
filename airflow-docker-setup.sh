@@ -20,6 +20,6 @@ sudo docker-compose up airflow-init
 # starting airflow docker
 sudo docker-compose up
 
-echo "If everything goes well.. Open localhost:8080"
+echo "Airflow docker Setup completed..."
 
 #End
