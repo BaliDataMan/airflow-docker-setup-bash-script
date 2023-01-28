@@ -13,4 +13,4 @@ Hit **http://localhost:8080/** to get airflow login page.
 
 **BAM!**
 
-In case you face error while running the bash script, just open the airflow-docker-setup.sh and I have mentioned expected errors in comments with there solution links.
+In case you face error while running the bash script, just open the airflow-docker-setup.sh and I have mentioned few errors in comments with there solution links.
