@@ -1,7 +1,7 @@
 
 <h1> Automated airflow installation using docker </h1>
 
-Here I have built the bash script to install airflow using docker on your system without any hustle, just follow the commands:
+Here I have built the bash script to install airflow using docker on your system without any hustle, just follow below 3 commands:
 
 **STEP 01 - ```cd <REPO_DIR>```** # getting into the repository directory
 
